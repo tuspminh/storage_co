@@ -1,3 +1,6 @@
+# tui bo
+update.bat
+
 # Bỏ qua các tệp lưu mật khẩu, cấu hình môi trường bí mật (BẮT BUỘC)
 .env
 .env.local
