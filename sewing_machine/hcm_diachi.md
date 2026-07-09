@@ -1,4 +1,4 @@
-" Trên shopee của Minh Anh còn hàng 7800, 7900
+| Trên shopee của Minh Anh còn hàng 7800, 7900
 
 Vì dòng máy [**Juki HZL-7900**](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,imageDocid:9456814425180753208,headlineOfferDocid:11426253135197044205,productDocid:11426253135197044205&q=product&sa=X&ved=2ahUKEwiX6pmlhsaVAxUpxjgGHRTuJEkQxa4PeggIAggACBkQAg) (thường gọi là Juki Misin 7900) là dòng **máy may nội địa Nhật Bản** đã qua sử dụng (hàng bãi Nhật), bạn không thể mua mới 100% tại các tổng kho chính hãng của Juki Việt Nam mà phải mua thông qua **các cửa hàng chuyên doanh máy may nội địa Nhật**.
 
