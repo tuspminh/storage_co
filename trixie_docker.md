@@ -84,6 +84,8 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plug
    ```text-x-trilium-auto
    sudo usermod -aG docker $USER
    ```
+`newgrp docker` để hệ thống cập nhật ngay nhóm docker vào phiên làm việc hiện tại của bạn
+
 
 2. **Khởi động dịch vụ**: Vì chạy trên WSL, bạn cần đảm bảo Docker Daemon được kích hoạt thông qua systemd:
 
