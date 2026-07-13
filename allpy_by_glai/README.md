@@ -1,1 +1,0 @@
-learn py with glai
