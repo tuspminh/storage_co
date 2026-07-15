@@ -5,7 +5,8 @@ OmniVoice
   [github](https://github.com/k2-fsa/OmniVoice)  | 
   [home](https://omnivoice.app/)  |
   [OmniVoice_hunggingface](https://huggingface.co/spaces/k2-fsa/OmniVoice) 
+
+  https://github.com/nowtranminh1-TTS/BetterBox-TTS
   
-
-
-
+  https://github.com/maemreyo/omnivoice-server
+  
